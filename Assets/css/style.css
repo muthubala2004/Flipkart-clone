@@ -445,11 +445,11 @@ header .nav-right{
         width: 100%;
         padding: 1rem;
         overflow-x: scroll;
-        height: 8rem;
+        height: 10rem;
         margin-top: 10rem !important;
     }
     .sub-menu > li > span {
-        font-size: 0.8rem;
+        font-size: 1rem;
     }
     .sub-menu li{
         min-width: 8rem;
