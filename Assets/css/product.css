@@ -459,9 +459,13 @@ body > .mobile-container:nth-of-type(3){
     body .mobile-container:nth-of-type(3){
         margin-top:10rem !important;
     }
+    .m-product{
+        justify-content: center;
+        align-items: center !important;
+    }
     .product{
         min-height:15rem;
-        max-width:18rem !important;
+        max-width:25rem !important;
         padding: 1rem !important;
     }
     .product span{
